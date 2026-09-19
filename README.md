@@ -14,7 +14,7 @@ Co-founder of **Digital Architecture Management Group** — I build websites and
 
 ## My stack
 
-Next.js · TypeScript · Supabase · Stripe · n8n · Cloudflare · Resend
+Next.js · TypeScript · Python · Supabase · Stripe · n8n · OpenClaw · Docker · Cloudflare · Resend
 
 ## Work with me
 
