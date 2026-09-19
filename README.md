@@ -26,3 +26,5 @@ Next.js · TypeScript · Python · Supabase · Stripe · n8n · OpenClaw · Dock
 I'm open to freelance web development and AI automation projects.
 
 📧 [admin@homerun.work](mailto:admin@homerun.work)
+
+🌐 [Instagram](https://www.instagram.com/homerun.by.damg) · [Facebook](https://www.facebook.com/share/1C47LgjvYa/) · [TikTok](https://www.tiktok.com/@homerun.work)
