@@ -1,16 +1,21 @@
 # Hi, I'm Laura Bartlett 👋
 
-Co-founder of **Digital Architecture Management Group** — We build websites and AI tools for home service businesses in Central Texas and beyond.
+Co-founder of **Digital Architecture Management Group** — I build websites and AI tools for home service businesses in Central Texas and beyond.
 
 ## What I build
 
-🤖 **HomeRun** — AI chat widget for home service businesses. Answers questions 24/7, takes service requests, sends instant alerts.
-→ homerun.work
+### 🤖 [HomeRun](https://homerun.work)
+AI chat widget for home service businesses. Answers questions 24/7, takes service requests, sends instant alerts.
 
-🛒 **Sweetwater Market** — online marketplace for homemade and homegrown goods.
-→ sweetwatermarket.shop
+[![HomeRun website](screenshots/homerun.png)](https://homerun.work)
 
-🌐 **Custom websites** — full-service website design and builds for small businesses.
+### 🛒 [Sweetwater Market](https://sweetwatermarket.shop)
+Online marketplace for homemade and homegrown goods.
+
+[![Sweetwater Market website](screenshots/sweetwater.png)](https://sweetwatermarket.shop)
+
+### 🌐 Custom websites
+Full-service website design and builds for small businesses.
 
 ## My stack
 
@@ -20,4 +25,4 @@ Next.js · TypeScript · Python · Supabase · Stripe · n8n · OpenClaw · Dock
 
 I'm open to freelance web development and AI automation projects.
 
-📧 admin@homerun.work
+📧 [admin@homerun.work](mailto:admin@homerun.work)
