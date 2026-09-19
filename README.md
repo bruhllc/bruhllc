@@ -14,8 +14,8 @@ Online marketplace for homemade and homegrown goods.
 
 [![Sweetwater Market website](screenshots/sweetwater.png)](https://sweetwatermarket.shop)
 
-### 🌐 Custom websites
-Full-service website design and builds for small businesses.
+### 🌐 [Custom websites & business systems](https://digitalarchitecturemanagementgroup.com)
+Full-service website design, web apps, and AI automation for small businesses.
 
 ## My stack
 
