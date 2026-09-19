@@ -1,6 +1,6 @@
 # Hi, I'm Laura Bartlett 👋
 
-Co-founder of **Digital Architecture Management Group** — we build websites and AI tools for home service businesses in Central Texas and beyond.
+Co-founder of **Digital Architecture Management Group** — we build websites and AI tools for service professionals and small business owners in Central Texas and beyond.
 
 ## What I build
 
