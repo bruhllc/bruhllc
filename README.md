@@ -17,6 +17,20 @@ Online marketplace for homemade and homegrown goods.
 ### 🌐 [Custom websites & business systems](https://digitalarchitecturemanagementgroup.com)
 Full-service website design, web apps, and AI automation for small businesses.
 
+## Certifications
+
+- **CompTIA SecurityX ce** (Xpert Series) — expires Apr 2029
+- **CompTIA CySA+ ce** — expires Apr 2029
+- **CompTIA Security+ ce** — expires Apr 2029
+- **CompTIA Linux+ ce** — expires Nov 2028
+- **CompTIA Security Analytics Expert – CSAE** (stackable) — expires Apr 2029
+- **CompTIA Security Analytics Professional – CSAP** (stackable) — expires Apr 2029
+- **CCNA: Introduction to Networks** — Cisco — issued May 2024
+
+## Skills
+
+Cybersecurity · Threat Management · Threat Detection & Threat Intelligence · Incident Response · Malware Analysis · Vulnerability Assessment · Computer Forensics · Security Policies & Governance (GRC) · Data Security & Privacy Law · Linux Administration · Scripting · Networking (TCP/IP, IPv6, Subnetting, Ethernet) · Firewalls · Enterprise Architecture · Disaster Recovery · Virtualization · Artificial Intelligence (AI) · UI Design
+
 ## My stack
 
 Next.js · TypeScript · Python · Supabase · Stripe · n8n · OpenClaw · Docker · Cloudflare · Resend
