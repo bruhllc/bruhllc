@@ -5,7 +5,7 @@ Co-founder of **Digital Architecture Management Group** — we build websites an
 ## What I build
 
 ### 🤖 [HomeRun](https://homerun.work)
-AI chat widget for home service businesses. Answers questions 24/7, takes service requests, sends instant alerts.
+AI chat widget and CRM for home service businesses. Answers questions 24/7, takes service requests, sends instant alerts, and tracks it all in one dashboard.
 
 [![HomeRun website](screenshots/homerun.png)](https://homerun.work)
 
