@@ -14,6 +14,11 @@ Online marketplace for homemade and homegrown goods.
 
 [![Sweetwater Market website](screenshots/sweetwater.png)](https://sweetwatermarket.shop)
 
+### 🧠 [Locoquiz](https://locoquiz.com)
+Personality quiz platform — conceived, designed, built, and launched in a single day. 20 quizzes × 15 questions, 80 personalized PDF reports with score-matched guidance, Stripe monetization ($1 single reports + $18 all-access bundle, one-time payments only), passwordless bundle access, and fully automated email fulfillment.
+
+[![Locoquiz website](screenshots/locoquiz.png)](https://locoquiz.com)
+
 ### 🌐 [Custom websites & business systems](https://digitalarchitecturemanagementgroup.com)
 Full-service website design, web apps, and AI automation for small businesses.
 
