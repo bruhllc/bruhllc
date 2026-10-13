@@ -19,6 +19,11 @@ Personality quiz platform — conceived, designed, built, and launched in a sing
 
 [![Locoquiz website](screenshots/locoquiz.png)](https://locoquiz.com)
 
+### 🗂️ [CrowdSleuth](https://crowdsleuth.app)
+Public case-file library for open investigations and closed cases — timelines, court records, and official documents with every fact linked to its source document, and unverified claims clearly stamped as such. 14 sourced case files at launch, a public-records (FOIA) request tracker, and an automated reader case-request pipeline. Informational only — no conclusions, no accusations.
+
+[![CrowdSleuth website](screenshots/crowdsleuth.png)](https://crowdsleuth.app)
+
 ### 🌐 [Custom websites & business systems](https://digitalarchitecturemanagementgroup.com)
 Full-service website design, web apps, and AI automation for small businesses.
 
