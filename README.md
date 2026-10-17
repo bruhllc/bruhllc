@@ -24,6 +24,9 @@ Public case-file library for open investigations and closed cases — timelines,
 
 [![CrowdSleuth website](screenshots/crowdsleuth.png)](https://crowdsleuth.app)
 
+### 🎃 [NomNomma](https://nomnomma.com)
+Generator hub built on one shared spin-the-wheel engine — ten themed generators with per-topic pages built for search: baby names with meanings, a "What's for Dinner?" spinner, puppy names, usernames, business names, game and story character names, AI agent names, a classroom prize wheel, and a seasonal Halloween costume wheel.
+
 ### 🌐 [Custom websites & business systems](https://digitalarchitecturemanagementgroup.com)
 Full-service website design, web apps, and AI automation for small businesses.
 
